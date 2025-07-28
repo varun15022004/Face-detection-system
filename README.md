@@ -163,7 +163,6 @@ Feel free to use, modify, and distribute for educational or commercial purposes.
 
 ---
 
-Let me know if you'd like a PowerPoint, UI with Streamlit, or even a GitHub-ready `.zip` project structure.
 
 
 
